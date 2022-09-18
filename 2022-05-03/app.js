@@ -1,5 +1,5 @@
 //8kyu `Remove First and Last Character`
-
+ 
 function removeChar(str){
     //You got this!
    //P STRING
