@@ -1,4 +1,4 @@
-//8kyu `Do I get a bonus?`
+//8kyu `Do I get a bonus?` 
 
 //Build a function that takes in two arguments (salary, bonus). Salary will be an integer, and bonus a boolean.
 
