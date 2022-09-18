@@ -1,4 +1,4 @@
-//8kyu `Is n divisible by x and y?`
+//8kyu `Is n divisible by x and y?` 
 
 //P Three integers above 0
 //R true or false -> is divisible by 
