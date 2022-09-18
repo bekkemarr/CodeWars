@@ -7,4 +7,4 @@ function solution(str){
     //P literally just reverse the string
       let newStr = str.split('').reverse().join('')
     return newStr
-    }
+    } 
