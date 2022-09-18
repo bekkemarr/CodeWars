@@ -1,4 +1,4 @@
-//8kyu `Opposite Number`
+//8kyu `Opposite Number` 
 
 function opposite(number) {
     //your code here
