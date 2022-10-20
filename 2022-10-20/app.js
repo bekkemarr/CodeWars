@@ -49,7 +49,7 @@ const repeats = arr => {
     //check the index of from the beginning and comparing 
     //check the last index and keeps iterating to the first index
     //add the elements that appears only once in the array
-    return arr.filter( (num) => {                       // We don't even use params 2 and 3
-        arr.indexOf(num) === arr.lastIndexOf(num)}
-    ).reduce((prev,curr)=> prev + curr, 0)
-  };
+    return arr.filter(num => {                       // We don't even use params 2 and 3
+      arr.indexOf(num) === arr.lastIndexOf(num);
+    }).reduce((prev, curr)=> prev + curr, 0); //put spaces after your parameters! YOU WHORE.
+  };                         //learn to use semi-colons appropriately! YOU WHORE.
